@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @joybiswas390
-- 🌱 I’m currently learning python
+
+- 🔭 I’m currently working on telegram bots 
+- 🌱 I’m currently learning Python 
+- 👯 I’m looking to collaborate on Pyrogram 
+- 📫 How to reach me: PM me [@JayBeeDev](https://t.me/JayBeeDev) 
+
+
 
 <!---
 joybiswas390/joybiswas390 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
