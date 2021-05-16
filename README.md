@@ -13,8 +13,6 @@ You can click the Preview link to take a look at your changes.
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=joybiswas390 alt=joybiswas390 /> </p>
-
 
 
 
