@@ -15,8 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TerminalWarlord&show_icons=true&count_private=true)  
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Terminalwarlord&theme=radical&hide_border=true)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TerminalWarlord)  
 
 ![Profile views](https://gpvc.arturio.dev/TerminalWarlord)
