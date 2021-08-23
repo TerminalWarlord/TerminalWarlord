@@ -16,8 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Terminalwarlord&theme=radical&hide_border=true)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TerminalWarlord)  
-
+![github](https://camo.githubusercontent.com/ffcbbe1dfca600112a808bb11b32f113ebd2bf315c976528d92c57cefcfb4262/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267468656d653d7261646963616c)
 ![Profile views](https://gpvc.arturio.dev/TerminalWarlord)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TerminalWarlord&layout=compact)](https://github.com/TerminalWarlord/github-readme-stats)
