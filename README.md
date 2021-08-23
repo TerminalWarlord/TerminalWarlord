@@ -1,6 +1,5 @@
 ## Hey 👋, This is Joy Biswas
 
-- 🔭 I’m currently working on Web Scraping
 - 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on APIs 
 - 📫 How to reach me: PM me [@JayBeeDev](https://t.me/JayBeeDev) 
