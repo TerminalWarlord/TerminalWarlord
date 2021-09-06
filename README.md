@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Python](https://img.shields.io/badge/Python-%2314354C?&style=for-the-badge&logoColor=white&logo=python)](https://www.python.org)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26?&style=for-the-badge&logoColor=white&logo=html5)](https://html.spec.whatwg.org)
-[![C](https://img.shields.io/badge/C-%23E34F26?&style=for-the-badge&logoColor=white&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Git](https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logoColor=white&logo=git)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github)](https://github.com)
 
@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 ## 💻 Software and tools
 
 <p>
-    <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/AdobePhotoshop-FF0000.svg?logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
     <a href="#"><img alt="DEV-C++" src="https://img.shields.io/badge/Dev-C++-21759B.svg?logo=dev&logoColor=white"></a>
     <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-000000.svg?logo=pycharm&logoColor=white"></a>
@@ -59,11 +59,5 @@ You can click the Preview link to take a look at your changes.
 ### Top Languages
 ![op](https://github-readme-stats.vercel.app/api/top-langs/?username=Terminalwarlord&theme=radical&layout=compact&langs_count=6&hide_border=true)
 ### Social Accounts
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/joybiswas390)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/joybiswas390)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joybiswas389)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TerminalWarlord)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/joybiswas389)
-[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16010374/joy-biswas)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/joybiswas389)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/joybiswas389)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/joybiswas390)[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/joybiswas390)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joybiswas389)[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TerminalWarlord)[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/joybiswas389)[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16010374/joy-biswas)[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/joybiswas389)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/joybiswas389)
+
