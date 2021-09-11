@@ -41,15 +41,13 @@ You can click the Preview link to take a look at your changes.
 [![Netlify](https://img.shields.io/badge/Netlify-teal?&style=for-the-badge&logoColor=white&logo=netlify)](https://netlify.com)
 [![Json](https://img.shields.io/badge/Json-grey?&style=for-the-badge&logoColor=white&logo=json)](https://json.org)
 
-## 💻 Software and tools
+## 💻 IDE and Tools
 
 <p>
-    <a href="#"><img alt="DEV-C++" src="https://img.shields.io/badge/Dev-C++-21759B.svg?logo=dev&logoColor=white"></a>
     <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=GIT&logoColor=#E57324"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-D14836?style=for-the-badge&logo=jupyter&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
 
 </p>
