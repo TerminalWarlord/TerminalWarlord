@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 ## 🧰 Frameworks and libraries
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?&style=for-the-badge&logoColor=white&logo=mongodb)](https://mongodb.com)
-[![MongoDB](https://img.shields.io/badge/Redis-%234ea94b?&style=for-the-badge&logoColor=black&logo=redis)](redislabs.com)
+[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)](redislabs.com)
 [![Flask](https://img.shields.io/badge/Flask-black?&style=for-the-badge&logo=flask)](https://flask.palletsprojects.com)
 [![FastAPI](https://img.shields.io/badge/FASTAPI-%234ea94b?&style=for-the-badge&logoColor=black&logo=fastapi)](https://fastapi.tiangolo.com)
 [![Heroku](https://img.shields.io/badge/Heroku-%23430098?&style=for-the-badge&logoColor=white&logo=heroku)](https://heroku.com)
@@ -45,11 +45,13 @@ You can click the Preview link to take a look at your changes.
 
 <p>
     <a href="#"><img alt="DEV-C++" src="https://img.shields.io/badge/Dev-C++-21759B.svg?logo=dev&logoColor=white"></a>
-    <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-000000.svg?logo=pycharm&logoColor=white"></a>
+    <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
+    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
+
 </p>
 
 ### Profile Views
